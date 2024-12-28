@@ -1,6 +1,6 @@
 title: RISY Oussama
-logo : Profil_picture.png
-description : As a BI Developer and Data Analyst with expertise in AI solutions, I specialize in transforming data into insights and actionable solutions. I excel in exploratory data analysis, trend identification, predictive modeling, and answering key business questions through data. Proficient in Python, I leverage libraries like Pandas, Matplotlib, Seaborn, and TensorFlow to analyze data and develop machine learning models. My expertise extends to working with databases and diverse data sources, designing pipelines for accurate data transformation into warehouses, and creating dynamic dashboards using Power BI and Excel. I also design data marts, dimensional models, and define new measures using Power Pivot, Power Query, and DAX. With a strong background in SQL Server, SSIS, SSAS, and SSRS, I ensure seamless data integration, visualization, and reporting. My passion lies in building innovative solutions that combine business intelligence and AI to empower data-driven decision-making.
+logo : Profile_picture.png
+description : As a BI Developer and Data Analyst with expertise in AI solutions, I specialize in transforming data into insights and actionable solutions. I excel in exploratory data analysis, trend identification, predictive modeling, and answering key business questions through data. 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
