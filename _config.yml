@@ -1,6 +1,7 @@
 title: RISY Oussama
 logo : Profile_picture.png
 description : As a BI Developer and Data Analyst with expertise in AI solutions, I specialize in transforming data into insights and actionable solutions. I excel in exploratory data analysis, trend identification, predictive modeling, and answering key business questions through data. 
+show_downloads : true
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
