@@ -1,7 +1,7 @@
 
 # BI Developer and Analyst | AI Solutions 
 
-#### Technical Skills: Python, SQL, Excel , PowerBI , SQL Server (SSIS,SSAS,SSRS) 
+#### Technical Skills: Python(Pandas,NumPy,TensorFlow,streamlit,seaborn,matplotlib,plotly), SQL, Excel , PowerBI , SNOWFLAKE , ,SQL Server (SSIS,SSAS,SSRS)  
 #### Soft Skills : Problem-Solving , Communication Skills , Time Management , Curiosity and Continuous Learning
 
 ## Education
@@ -21,6 +21,9 @@ In this project, I developed an automated system for segmenting renal tumors in 
 
 In this project, I developed a real-time system for detecting and recognizing obstacles using deep learning techniques. The system was designed to accurately identify various obstacles, including university logos, in real-time. By leveraging Convolutional Neural Networks (CNNs), I created custom classes for object recognition and trained the model on relevant datasets to achieve high accuracy. This project demonstrates my ability to apply deep learning methods to real-world computer vision challenges, particularly in the context of real-time object detection and recognition.
 ## Minor projects
+### Interactive Sales Data Dashboard with SQL ,Python and streamlit in Snowflake Notebook
+
+I developed an interactive sales dashboard using Snowflake and Python, focused on the extraction, transformation, and analysis of sales data. I created dynamic visualizations using Python with libraries like Pandas and Streamlit. The dashboard showed key metrics such as monthly sales trends, performance by gender, and product category distribution. The project required skills in extracting, analyzing, and visualizing data—basically, seeing through the whole process of presenting complex data in a business insight-driven way.
 ### Netflix User Data Analysis
 [Link](https://github.com/risyouss/Netflix-User-Data-Analysis)<br>
 
