@@ -1,8 +1,8 @@
 
 # BI Developer and Analyst | AI Solutions 
 
-#### Technical Skills: Python(Pandas,NumPy,TensorFlow,streamlit,seaborn,matplotlib,plotly), SQL, Excel , PowerBI , SNOWFLAKE , ,SQL Server (SSIS,SSAS,SSRS)  
-#### Soft Skills : Problem-Solving , Communication Skills , Time Management , Curiosity and Continuous Learning
+#### Technical Skills: Python(Pandas,NumPy,TensorFlow,streamlit,seaborn,matplotlib,plotly),SQL,Excel,PowerBI,Tableau,LookerStudio,SNOWFLAKE,SQL Server,SSIS,SSAS,SSRS)  
+#### Soft Skills : Problem-Solving ,Communication Skills,Time Management,Curiosity and Continuous Learning
 
 ## Education
 - M.S., Master Business Intelligence et Big Data Analytics 	(_Jul 2024_)	        		
