@@ -33,6 +33,10 @@ In this project, I analyzed a dataset of 2,500 entries using Python libraries li
 [Link](https://github.com/risyouss/EDA_EcommerceDATA)<br>
 In this project, I conducted an exploratory data analysis (EDA) on a dataset of 55,000 e-commerce transactions using Python tools like Pandas and Matplotlib. After cleaning and preprocessing the data, I identified trends in customer behavior, such as the dominance of electronics as the most purchased category and credit cards as the preferred payment method. Insights revealed that customers aged 25-45 and female buyers were the largest demographics, with Mumbai leading in transaction frequency. This analysis highlights my ability to clean, analyze, and extract actionable insights from large datasets, supporting data-driven decision-making.
 
+### British Airways Review Dashboard
+[Link](https://github.com/risyouss/British_airways_review)<br>
+This project is an interactive Tableau dashboard designed to analyze customer reviews for British Airways. Using two datasets—one with country details and another with reviews—the dashboard provides insights into six key metrics (e.g., Overall Rating, Cabin Staff Service). It features filters for date, traveler type, seat type, aircraft, and continent, alongside visualizations like a map, line chart, and bar charts. Users can explore trends, geographical distributions, and aircraft-specific performance, enabling a comprehensive analysis of customer satisfaction.
+
 ## Extracurricular activities
 - CoderSpace : As Vice President of CoderSpace, a club dedicated to empowering students with courses in algorithms and artificial intelligence, I lead sessions on machine learning and deep learning. I collaborate closely with our members on projects, fostering an environment of innovation and hands-on learning.
 
