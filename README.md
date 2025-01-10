@@ -25,7 +25,7 @@ In this project, I developed a real-time system for detecting and recognizing ob
 
 I developed an interactive sales dashboard using Snowflake and Python, focused on the extraction, transformation, and analysis of sales data. I created dynamic visualizations using Python with libraries like Pandas and Streamlit. The dashboard showed key metrics such as monthly sales trends, performance by gender, and product category distribution. The project required skills in extracting, analyzing, and visualizing data—basically, seeing through the whole process of presenting complex data in a business insight-driven way.
 
-### Netflix User Data Analysis [details](https://github.com/risyouss/Netflix-User-Data-Analysis)<br>
+### Netflix User Data Analysis [Details](https://github.com/risyouss/Netflix-User-Data-Analysis)<br>
 
 In this project, I analyzed a dataset of 2,500 entries using Python libraries like Pandas, Matplotlib, and Seaborn. I explored user distribution by country and gender, revealing Spain's dominance in premium subscriptions and the USA's in basic plans. I uncovered trends in subscription types, device preferences, and audience demographics, with the average subscription lasting 10.78 months. By calculating total revenue, I identified the USA and Spain as top-performing regions. Visualizations, including maps and bar charts, showcased insights, emphasizing my ability to clean, analyze, and present data effectively.
 
