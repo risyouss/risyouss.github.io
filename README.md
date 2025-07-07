@@ -12,7 +12,7 @@
 **Data scientist intern @ Singleverse soft (_Apr 2024 - 2024 Jun_)**
 During this internship, I worked on an innovative project focused on interpreting brain signals (EEG) to generate machine commands using Deep Learning. My responsibilities included data preprocessing, designing the neural network architecture, selecting the optimizer and loss function, and defining the output layer. I was also involved in model training, evaluation, and hyperparameter tuning.
 
-## Projects
+## Academic Projects
 ### Enhancing Early Detection of Renal Tumors with Semantic Segmentation
 
 In this project, I developed an automated system for segmenting renal tumors in CT images using the UNet architecture. The goal was to accurately identify and segment tumors, helping in the early detection and staging of renal cancer. By leveraging deep learning techniques, I built a solution that enhances clinical decision-making by providing precise tumor segmentation, which can be used for further analysis and treatment planning. This project showcases my ability to apply advanced deep learning methods to medical image analysis for real-world healthcare applications.
@@ -20,7 +20,7 @@ In this project, I developed an automated system for segmenting renal tumors in 
 ### Real-Time Obstacle Detection and Recognition Using Deep Learning
 
 In this project, I developed a real-time system for detecting and recognizing obstacles using deep learning techniques. The system was designed to accurately identify various obstacles, including university logos, in real-time. By leveraging Convolutional Neural Networks (CNNs), I created custom classes for object recognition and trained the model on relevant datasets to achieve high accuracy. This project demonstrates my ability to apply deep learning methods to real-world computer vision challenges, particularly in the context of real-time object detection and recognition.
-## Minor projects
+## Personal Projects
 ### Interactive Sales Data Dashboard with SQL ,Python and streamlit in Snowflake Notebook
 
 I developed an interactive sales dashboard using Snowflake and Python, focused on the extraction, transformation, and analysis of sales data. I created dynamic visualizations using Python with libraries like Pandas and Streamlit. The dashboard showed key metrics such as monthly sales trends, performance by gender, and product category distribution. The project required skills in extracting, analyzing, and visualizing data—basically, seeing through the whole process of presenting complex data in a business insight-driven way.
