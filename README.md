@@ -1,12 +1,13 @@
 
-# BI Developer and Analyst | AI Solutions 
+# PhD Candidate in Biomedical AI | Kidney & Deep Learning 
 
 #### Technical Skills: Python(Pandas,NumPy,TensorFlow,streamlit,seaborn,matplotlib,plotly),SQL <br> Excel,PowerBI,Tableau,LookerStudio,SNOWFLAKE,SQL Server,SSIS,SSAS,SSRS)  
 #### Soft Skills : Problem-Solving ,Communication Skills,Time Management,Curiosity and Continuous Learning
 
 ## Education
-- M.S., Master Business Intelligence et Big Data Analytics 	(_Jul 2024_)	        		
-- B.S., Mathematical sciences and computer science (_Sep 2022_)
+- PhD Candidate in Biomedical AI — Kidney & Deep Learning (_Present_)	        		
+- Master in Business Intelligence and Big Data Analytics (_Jul 2024_)	
+- Bachelor in Mathematical Sciences and Computer Science (_Jul 2022_)
 
 ## Work Experience
 **Data scientist intern @ Singleverse soft (_Apr 2024 - 2024 Jun_)**
