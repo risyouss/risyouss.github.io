@@ -1,5 +1,5 @@
 
-# Data Scientist, Research Assistant
+# Data Scientist | Research Assistant | AI Solutions
 
 #### Technical Skills: Python(Pandas,NumPy,TensorFlow,streamlit,seaborn,matplotlib,plotly),SQL <br> Excel,PowerBI,Tableau,LookerStudio,SNOWFLAKE,SQL Server,SSIS,SSAS,SSRS)  
 #### Soft Skills : Problem-Solving ,Communication Skills,Time Management,Curiosity and Continuous Learning
