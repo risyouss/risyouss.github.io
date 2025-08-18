@@ -1,4 +1,4 @@
-# Data Scientist | Data Analyst | PhD Student in Biomedical AI
+# Junior Data Scientist | Junior Data Analyst | PhD Student in Biomedical AI
 
 #### Technical Skills
 
