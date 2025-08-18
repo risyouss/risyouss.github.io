@@ -42,9 +42,9 @@
 During this internship, I worked on an innovative project focused on interpreting brain signals (EEG) to generate machine commands using Deep Learning. My responsibilities included data preprocessing, designing the neural network architecture, selecting the optimizer and loss function, and defining the output layer. I was also involved in model training, evaluation, and hyperparameter tuning.
 
 ## Academic Projects
-### Enhancing Early Detection of Renal Tumors with Semantic Segmentation
+### Semantic Segmentation of Kidneys and Tumors in 3D CT Images
 
-In this project, I developed an automated system for segmenting renal tumors in CT images using the UNet architecture. The goal was to accurately identify and segment tumors, helping in the early detection and staging of renal cancer. By leveraging deep learning techniques, I built a solution that enhances clinical decision-making by providing precise tumor segmentation, which can be used for further analysis and treatment planning. This project showcases my ability to apply advanced deep learning methods to medical image analysis for real-world healthcare applications.
+In this project, I developed an automated system for segmenting kidneys and renal tumors in 3D CT images using the UNet architecture. By accurately delineating the kidney and tumor structures, this segmentation provides detailed anatomical information that can support the diagnosis and clinical assessment of renal diseases. Leveraging deep learning techniques, the system generates precise 3D segmentations that can be used for further analysis, treatment planning, and research applications. This project demonstrates my ability to apply advanced deep learning methods to complex medical image analysis for real-world healthcare scenarios.
 
 ### Real-Time Obstacle Detection and Recognition Using Deep Learning
 
