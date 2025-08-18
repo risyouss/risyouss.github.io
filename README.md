@@ -61,7 +61,7 @@ This project is an interactive Tableau dashboard designed to analyze customer re
 ## Extracurricular activities
 - CoderSpace : As Vice President of CoderSpace, a club dedicated to empowering students with courses in algorithms and artificial intelligence, I lead sessions on machine learning and deep learning. I collaborate closely with our members on projects, fostering an environment of innovation and hands-on learning.
 
-## 📅 Events
+## Events
 - **Artificial Intelligence and the Internet of Things Event** — *Event Responsable & Project Participant*  
   - **Event Role**: Managed the event organization, coordinated teammates, communicated with media partners, and wrote sponsoring requests.  
   - **Project Role**: Participated in developing two systems with a team of four:  
