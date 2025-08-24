@@ -3,7 +3,7 @@
 #### Technical Skills
 
 **Programming & Data Analysis**  
-- Python (Pandas, NumPy, TensorFlow, Streamlit, Seaborn, Matplotlib, Plotly)  
+- Python (Pandas, NumPy, SciPy, TensorFlow, Streamlit, Seaborn, Matplotlib, Plotly)  
 - R (RStudio, ggplot2, RMarkdown)  
 - SQL (MySQL, BigQuery)  
 - Excel  
