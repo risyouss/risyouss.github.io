@@ -1,34 +1,49 @@
-# Junior Data Scientist | Junior Data Analyst | PhD Student in Biomedical AI
+# Junior Data Scientist | Junior Data Analyst | PhD Student in Biomedical AI  
 
-#### Technical Skills
+---
 
-**Programming & Data Analysis**  
+## Technical Skills  
+
+### Programming & Data Analysis  
 - Python (Pandas, NumPy, SciPy, TensorFlow, Streamlit, Seaborn, Matplotlib, Plotly)  
 - R (RStudio, ggplot2, RMarkdown)  
 - SQL (MySQL, BigQuery)  
 - Excel  
 
-**Data Visualization & BI Tools**  
+### Statistical & Mathematical Foundations  
+- Statistical Analysis  
+- Probability & Statistics  
+- Mathematical Theory & Analysis  
+- Statistical Tests  
+
+### Data Visualization & BI Tools  
 - Power BI  
 - Tableau  
-- Streamlit (Interactive Dashboards)  
+- Streamlit  
+- Matplotlib, Seaborn, Plotly, ggplot2  
 
-**Cloud & Data Platforms**  
+### Machine Learning & Modeling  
+- Network Models  
+- Supervised & Unsupervised Learning  
+- Model Evaluation Metrics  
+
+### Cloud & Data Platforms  
 - Google Cloud Platform (BigQuery, AI/ML tools)  
-- Snowflake (Data Warehousing & Analytics)  
+- Snowflake  
 - IBM Watson Studio  
 - Jupyter Notebooks  
-- GitHub (Version Control & Collaboration)  
+- GitHub  
 
 ---
 
-#### Soft Skills 
+## Soft Skills  
 - Analytical Reasoning  
 - Problem-Solving  
 - Adaptation  
 - Communication Skills  
 - Time Management  
 - Curiosity & Continuous Learning  
+
 
 
 ## Education
@@ -56,6 +71,8 @@ This project is an interactive Tableau dashboard designed to analyze customer re
 
 ## Certificats
 [Google Data Analytics Professional Certificate.](https://www.credly.com/badges/f9685d6d-9df0-46ed-b871-1afa756690b6/linked_in_profile)<br>
+[Data Science Fundamentals Specialization.](https://www.credly.com/badges/c7bef035-dff3-4d37-963c-0e0af63fdd0f/linked_in_profile)<br>
+[Generative AI: Prompt Engineering Basics.](https://coursera.org/share/bdf77e43fd1f3d92e0301155289c9ab1)
 
 ## Extracurricular activities
 - CoderSpace : As Vice President of CoderSpace, a club dedicated to empowering students with courses in algorithms and artificial intelligence, I lead sessions on machine learning and deep learning. I collaborate closely with our members on projects, fostering an environment of innovation and hands-on learning.
