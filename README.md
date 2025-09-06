@@ -1,4 +1,4 @@
-# Junior Data Scientist | Junior Data Analyst | PhD Student in Biomedical AI & Computer Vision | Oncology  
+Data Scientist | PhD Student  
 
 ---
 
@@ -72,7 +72,9 @@ This project is an interactive Tableau dashboard designed to analyze customer re
 ## Certificats
 [Google Data Analytics Professional Certificate.](https://www.credly.com/badges/f9685d6d-9df0-46ed-b871-1afa756690b6/linked_in_profile)<br>
 [Data Science Fundamentals Specialization.](https://www.credly.com/badges/c7bef035-dff3-4d37-963c-0e0af63fdd0f/linked_in_profile)<br>
-[Generative AI: Prompt Engineering Basics.](https://coursera.org/share/bdf77e43fd1f3d92e0301155289c9ab1)
+[Generative AI: Prompt Engineering Basics.](https://coursera.org/share/bdf77e43fd1f3d92e0301155289c9ab1)<br>
+[Critical Thinking Skills for the Professional.](https://coursera.org/verify/SJUGH2QL1W20)<br>
+[Foundations of Project Management.](https://coursera.org/verify/BV2GMNRMVO40)
 
 ## Extracurricular activities
 - CoderSpace : As Vice President of CoderSpace, a club dedicated to empowering students with courses in algorithms and artificial intelligence, I lead sessions on machine learning and deep learning. I collaborate closely with our members on projects, fostering an environment of innovation and hands-on learning.
